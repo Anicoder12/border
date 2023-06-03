@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    font-size: 50px;
+    color: lightblue;
+}
+body {
+    background-color: lightsalmon !important;
+}
+
+
+canvas {
+    border:1px solid black;
+    background-color: white;
+}
